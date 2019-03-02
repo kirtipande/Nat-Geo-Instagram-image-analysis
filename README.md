@@ -12,6 +12,6 @@
 
 Google vision code: Google_vision.ipynb
 
-Instagram scrapper + Topic modelling + engagement score modelling - NatGeo_analysis.ipynb
+Instagram scrapper + Topic modelling + engagement score modelling : NatGeo_analysis.ipynb
 
 Data has not been added but can be obtained using the instagram scrapper in the above mentioned notebook
